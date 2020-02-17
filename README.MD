@@ -87,3 +87,10 @@ export  $initHighlight;
 |--------|----------|-----------|
 | Arturo | Rivera | 1028727341 |
 |Carolina | Pedroza | 52243346 |
+
+# Citas
+Esto es un texto referente a una cita que podremos debajo:
+ > Esto es una cita
+
+Esto es un otro texto que no relaciona con la cita anterior:
+> Esto es otra cita
